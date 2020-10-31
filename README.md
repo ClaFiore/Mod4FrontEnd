@@ -5,6 +5,7 @@ Full CRUD on the user: able to sign-up and create a profile, view and edit infor
 The user is able to create a new reservation and delete it.
 
 Link to Backend repository: https://github.com/ClaFiore/Mod4BackEnd
+
 Demo video: https://www.youtube.com/watch?v=3jys7rMQ0io&feature=youtu.be
 
 API integration: Google Maps and search feature; Zomato Api for real data on restaurants around the country.
