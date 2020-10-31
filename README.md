@@ -1,5 +1,6 @@
 TableFinder is a web application built on Ruby on Rails and React (class and functional components).
-TableFinder allows the user to browse restaurants by location or by filtering the preferred cuisine. It also implements a sorting feature to sort results alphabetically, by price range or by rating.
+
+TableFinder allows the user to browse restaurants by location or by filtering by preferred cuisine. It also implements a sorting feature to sort results alphabetically, by price range or by rating.
 TableFinder uses authentication and authorization to allow the user to perform certain actions only if logged in, such as make a reservation.
 Full CRUD on the user: able to sign-up and create a profile, view and edit information, delete account.
 The user is able to create a new reservation and delete it.
